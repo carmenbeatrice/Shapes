@@ -1,0 +1,12 @@
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\bin\Debug\arie4.exe.config
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\bin\Debug\arie4.exe
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\bin\Debug\arie4.pdb
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\obj\Debug\arie4.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\obj\Debug\arie4.exe
+C:\Users\asus\documents\visual studio 2012\Projects\arie\arie\obj\Debug\arie4.pdb
+D:\work\Shape\arie\arie4\arie4\bin\Debug\arie4.exe.config
+D:\work\Shape\arie\arie4\arie4\obj\Debug\arie4.exe
+D:\work\Shape\arie\arie4\arie4\obj\Debug\arie4.pdb
+D:\work\Shape\arie\arie4\arie4\bin\Debug\arie4.exe
+D:\work\Shape\arie\arie4\arie4\bin\Debug\arie4.pdb
+D:\work\Shape\arie\arie4\arie4\obj\Debug\arie4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Shapes>
+	<Shape id="1" type="Triangle">
+		<width>10</width>
+		<height>5</height>
+	</Shape>
+	<Shape id="2" type="Square">
+		<width>11</width>
+	</Shape>
+	<Shape id="3" type="Rectangle">
+		<width>12</width>
+		<height>7</height>
+	</Shape>
+	<Shape id="4" type="Triangle">
+		<width>14</width>
+		<height>17</height>
+	</Shape>
+</Shapes>

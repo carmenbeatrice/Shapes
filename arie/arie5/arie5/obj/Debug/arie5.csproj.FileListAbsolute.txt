@@ -1,0 +1,16 @@
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\bin\Debug\arie5.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\bin\Debug\arie5.exe
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\bin\Debug\arie5.pdb
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\obj\Debug\arie5.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\obj\Debug\arie5.exe
+c:\users\asus\documents\visual studio 2012\Projects\arie5\arie5\obj\Debug\arie5.pdb
+C:\Users\asus\documents\visual studio 2012\Projects\arie5\arie5\bin\Debug\CsvReader.dll
+C:\Users\asus\documents\visual studio 2012\Projects\arie5\arie5\bin\Debug\CsvReader.xml
+D:\work\Shape\arie\arie5\arie5\bin\Debug\arie5.exe.config
+D:\work\Shape\arie\arie5\arie5\obj\Debug\arie5.exe
+D:\work\Shape\arie\arie5\arie5\obj\Debug\arie5.pdb
+D:\work\Shape\arie\arie5\arie5\bin\Debug\arie5.exe
+D:\work\Shape\arie\arie5\arie5\bin\Debug\arie5.pdb
+D:\work\Shape\arie\arie5\arie5\bin\Debug\CsvReader.dll
+D:\work\Shape\arie\arie5\arie5\bin\Debug\CsvReader.xml
+D:\work\Shape\arie\arie5\arie5\obj\Debug\arie5.csprojResolveAssemblyReference.cache
